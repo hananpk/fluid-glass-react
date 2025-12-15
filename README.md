@@ -11,13 +11,21 @@ npm install fluid-glass-react
 ## Usage
 
 ```tsx
-import { FluidGlass } from 'fluid-glass-react';
+import { FluidGlass } from "fluid-glass-react";
 
 function App() {
   return (
-
+    <FluidGlass
+      padding="8px 16px"
+      borderRadius={30}
+      tintColor="#ffffff35" // background shade color
+      blurAmount={2} // blur amount
+      displacementScale={-40} // negative value give more glass effect
+      saturation={1.2} // 1-2 range
+      elasticity={8} // bigger value give stretched background effect
+    >
       Hello World
-
+    </FluidGlass>
   );
 }
 ```
