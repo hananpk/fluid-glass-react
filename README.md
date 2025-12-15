@@ -46,3 +46,9 @@ function App() {
 ## License
 
 MIT
+
+## Author
+
+**Hanan**
+
+- GitHub: https://github.com/hananpk
