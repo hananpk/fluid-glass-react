@@ -13,12 +13,14 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
+    "liquid glass",
+    "liquid",
     "react",
     "glass",
     "glassmorphism",
     "fluid",
     "component",
-    "ui"
+    "ui",
   ],
   "author": "Hanan Pk",
   "license": "MIT",
