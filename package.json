@@ -40,10 +40,10 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/hananpk/fluid-glass-react"
   },
   "bugs": {
     "url": ""
   },
-  "homepage": ""
+  "homepage": "https://fluid-glass-playground.vercel.app/"
 }
